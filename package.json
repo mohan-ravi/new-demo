@@ -1,0 +1,19 @@
+{
+  "name": "npm-package-concept",
+  "version": "1.0.0",
+  "description": "Learning npm packages and modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohan-ravi/new-demo.git"
+  },
+  "author": "mohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohan-ravi/new-demo/issues"
+  },
+  "homepage": "https://github.com/mohan-ravi/new-demo#readme"
+}
