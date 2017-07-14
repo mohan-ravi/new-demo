@@ -4,7 +4,9 @@
   "description": "Learning npm packages and modules",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "dir /b *.ts > tsfiles.txt",
+    "prepublishOnly": "tsc @tsfiles.txt"
   },
   "repository": {
     "type": "git",
