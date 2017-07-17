@@ -213,19 +213,12 @@ class CalcPrecedence {
             //Unbalanced Brackets
             return "Syntax Error";
         }
-        if (this.parantheStr.includes('(') && this.parantheStr.includes(')')) {
-            this.inputExpr(this.parantheStr);
-        }
-        //-----When No more Brackets remains send the remaining expression directly 
-        //-----or return the result------------------------------------------------
-        else {
+        
             //console.log("No more barckets, final call");
             //console.log("The string is " + this.parantheStr);
             var result = this.calc(this.parantheStr);
             //console.log("Result " + result)
             return result;
-        }
-        return result;
     }
     updateString() {
         let substr = this.parantheStr.substring(this.open + 1, this.close);
