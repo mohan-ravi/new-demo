@@ -1,2 +1,3 @@
-echo
+@echo off
 npm publish
+pause
