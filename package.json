@@ -1,12 +1,12 @@
 {
   "name": "npm-package-concept",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Learning npm packages and modules",
   "main": "index.js",
   "scripts": {
     "compile":"dir /b *.ts > tsfiles.txt",
-    "tsc":"tsc @tsfiles.txt","git1":"git status","git2":"git add .","git3":"git commit -m 'message'","git4":"git push",
-    "prepublish": "npm run compile && npm run git1  && npm run git2  && npm run git3  && npm run git4 && npm run tsc"
+    "tsc":"tsc @tsfiles.txt",
+    "prepublish": "npm run compile && npm run tsc"
   },
   "repository": {
     "type": "git",
