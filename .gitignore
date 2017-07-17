@@ -1,3 +1,4 @@
 *.js
 *.log
 tsfiles.txt
+*.bat
