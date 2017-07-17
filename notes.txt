@@ -1,0 +1,30 @@
+retun substring 
+
+detect (
+  label    open   = index [(]
+      close  = 0
+      note ( index
+      search for )
+            if ( found again
+      if ) found
+          retun sub string
+
+
+1+(12%2/(1+1)*(1))+1
+(((())))))
+count 1,2,3,4,3,2,1,0
+count 1,2,3,4,3,2,1,0, break;
+
+strin[i].charCodeAt(0) == 37 || strin[i].charCodeAt(0) == 42 || strin[i].charCodeAt(0) == 47 || strin[i].charCodeAt(0) == 43 || strin[i].charCodeAt(0) == 45
+
+2+(534/639*(672-98*326)+648)+3*2/2
+2+(534/639*-31276+648)+3*2/2
+
+
+Mul Processed Value 12,+,30,-,4,+,204.25,+,5,-,32,+,7,-,6.444444444444445,+,36,-,6,-,0.42857142857142855,+,7,+,36,+,5
+
+After negative change 12,+,30,-4,+,204.25,+,5,-32,+,7,-6.444444444444445,+,36,-6,-0.42857142857142855,+,7,+,36,+,5
+
+Before Addition and Subtraction 12,+,30,-4,+,204.25,+,5,-32,+,7,-6.444444444444445,+,36,-6,-0.42857142857142855,+,7,+,36,+,5
+
+Add and sub Processed Value 42,200.25,+,5,-25,29.555555555555557,-6,6.571428571428571,+,41
