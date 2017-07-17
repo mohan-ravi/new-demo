@@ -1,4 +1,5 @@
 class CalcPrecedence {
+    
     parantheStr: string;
     open: number;
     close: number;
