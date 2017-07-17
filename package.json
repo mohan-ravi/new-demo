@@ -4,7 +4,8 @@
   "description": "Learning npm packages and modules",
   "main": "index.js",
   "scripts": {
-    "prepublish": "tsc @tsfiles.txt"
+    "tsc" : "tsc @tsfiles.txt",
+    "pre-publish": "npm run tsc"
   },
   "repository": {
     "type": "git",
