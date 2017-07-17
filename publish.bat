@@ -1,3 +1,2 @@
 echo
 npm publish
-exit
