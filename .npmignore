@@ -1,1 +1,2 @@
-*.ts,tsfiles.txt
+*.ts
+tsfiles.txt
